@@ -1,3 +1,5 @@
+// Built-in Data Strecture in JS
+// 2-Array
 /**
  * Array Declaration
  * there is 2 way for that
