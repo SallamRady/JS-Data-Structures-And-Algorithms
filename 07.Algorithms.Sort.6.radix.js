@@ -42,3 +42,4 @@ function radixSort(arr){
 }
 
 console.log(radixSort([1234, 0,11,1098,56, 7]));
+console.log(radixSort([31415926535897932384626433832795,1,3,10,3,5]));
