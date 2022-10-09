@@ -55,7 +55,7 @@ class SinglyLinkedList {
   }
   /**
    * remove last node in linked list.
-   * complexity -worest case-> O(1)
+   * complexity -worest case-> O(n)
    * @returns removed node
    */
   pop() {
